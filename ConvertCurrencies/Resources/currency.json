@@ -1,0 +1,69 @@
+[{
+  "code": "PER",
+  "imageName": "peru_flag",
+  "name": "Perú",
+  "price": "1 EUR = 4.20 SOL",
+  "nameMoney": "Soles",
+  "rates": [
+    {"codeRates":"USA","priceCurrency": 3.62, "sellPriceMoney":"3.60", "buyPriceMoney":"3.50"},
+    {"codeRates":"PER","priceCurrency": 1.00, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+    {"codeRates":"EUR","priceCurrency": 4.20, "sellPriceMoney":"4.10", "buyPriceMoney":"4.20"},
+    {"codeRates":"JAP","priceCurrency": 29.24, "sellPriceMoney":"29.00", "buyPriceMoney":"27.00"},
+    {"codeRates":"GBP","priceCurrency": 0.20, "sellPriceMoney":"0.20", "buyPriceMoney":"0.24"}
+  ]
+},{
+  "code": "USA",
+  "imageName": "usa_flag",
+  "name": "United State",
+  "price": "1 EUR = 1.0963 SOL",
+  "nameMoney": "Dólares",
+  "rates": [
+      {"codeRates":"USA","priceCurrency": 1.00, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"PER","priceCurrency": 0.27, "sellPriceMoney":"0.25", "buyPriceMoney":"0.30"},
+      {"codeRates":"EUR","priceCurrency": 4.20, "sellPriceMoney":"4.20", "buyPriceMoney":"4.30"},
+      {"codeRates":"JAP","priceCurrency": 106.60 , "sellPriceMoney":"105.00", "buyPriceMoney":"106.00"},
+      {"codeRates":"GBP","priceCurrency": 0.72, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"}
+  ]
+},
+{
+  "code": "EUR",
+  "imageName": "united_flag",
+  "name": "European Union",
+  "price": "1 EUR = 1.0963 SOL",
+  "nameMoney": "Euro",
+  "rates": [
+      {"codeRates":"USA","priceCurrency": 1.21, "sellPriceMoney":"1.20", "buyPriceMoney":"1.30"},
+      {"codeRates":"PER","priceCurrency": 4.40, "sellPriceMoney":"4.00", "buyPriceMoney":"4.40"},
+      {"codeRates":"EUR","priceCurrency": 1.00, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"JAP","priceCurrency": 128.69, "sellPriceMoney":"143.00", "buyPriceMoney":"123.00"},
+      {"codeRates":"GBP","priceCurrency": 0.87, "sellPriceMoney":"120.00", "buyPriceMoney":"110.00"}
+  ]
+},
+{
+  "code": "JAP",
+  "imageName": "japan_flag",
+  "name": "Japan",
+  "price": "1 EUR = 1.0963 SOL",
+  "nameMoney": "Yenes",
+  "rates": [
+      {"codeRates":"USA","priceCurrency": 1.00, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"PER","priceCurrency": 0.27, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"EUR","priceCurrency": 4.20, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"JAP","priceCurrency": 4.20, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"GBP","priceCurrency": 4.20, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"}
+  ]
+},
+{
+  "code": "GBP",
+  "imageName": "united_kingdom_flag",
+  "name": "United Kingdom",
+  "price": "1 EUR = 1.0963 SOL",
+  "nameMoney": "Libra esterlina",
+  "rates": [
+      {"codeRates":"USA","priceCurrency": 1.00, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"PER","priceCurrency": 0.27, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"EUR","priceCurrency": 4.20, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"JAP","priceCurrency": 4.20, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"},
+      {"codeRates":"GBP","priceCurrency": 4.20, "sellPriceMoney":"1.00", "buyPriceMoney":"1.00"}
+  ]
+}]
